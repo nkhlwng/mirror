@@ -33,20 +33,3 @@ aws_access_key_id = {accessKey}
 aws_secret_access_key = {secretAccessKey}
 ```
 
-## TO DO
-
-### Clock
-[x] Format clock so that time is on top (without seconds), date on bottom (without year)
-
-### MBTA
-[x] Display subway/bus icon for each stop
-[x] Display upcoming arrivals for each stop
-
-### Weather
-[x] Display current weather icon
-[ ] Display hourly graph of upcoming weather (temperature, percent chance of rain)
-[x] Display upcoming daily forecast (day of week, high/low, weather icon)
-
-### Calendar 
-[ ] Create proxy function to get Yahoo.ics
-[ ] Figure out how to get .ics from Google 
