@@ -1,0 +1,9 @@
+
+.News {
+    text-align: left;
+    padding-top: 20px;
+}
+
+.News .Article {
+    margin-bottom: 5px;
+}

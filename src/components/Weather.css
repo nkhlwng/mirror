@@ -1,0 +1,21 @@
+.Weather {
+  text-align: left;
+  padding-top: 20px;
+}
+
+.Weather .Current {
+  font-size: 40px;
+}
+
+.Weather .Current .material-symbols-outlined {
+  font-size: 40px;
+  margin-left: 5px;
+}
+
+.Weather .Bar {
+  display: block;
+  background-color: white;
+  height: 15px;
+  border-radius: 10px;
+  
+}

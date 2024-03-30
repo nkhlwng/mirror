@@ -1,0 +1,7 @@
+.Clock {
+  text-align: left;
+}
+
+.Clock .Time {
+  font-size: 44px;
+}

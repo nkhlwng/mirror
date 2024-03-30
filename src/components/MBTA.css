@@ -1,0 +1,22 @@
+.MBTA {
+  text-align: left;
+  padding-top: 20px;
+}
+
+.MBTA .Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+
+
+.MBTA .Stop-Name {
+  font-size: 20px;
+  
+}
+
+.MBTA .Arrival-Time {
+  padding-left: 12px;
+}
+
